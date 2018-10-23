@@ -25,7 +25,7 @@
 * HTML/CSS/Javascript 
 * Bootstrap
 * Python 
-* Framework Django 
+* Django Framework 
 * Mysql
 * Git/Github
 
