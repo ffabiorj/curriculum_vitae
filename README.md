@@ -1,6 +1,6 @@
 # FÁBIO MACÊDO DE OLIVEIRA
 
-##Dados Pessoais
+### Dados Pessoais
 
 Brasileiro, 33 anos.
 Endereço: Rua nereu sampaio 61 - Realengo - Rio de Janeiro
@@ -9,18 +9,18 @@ Celular 21 97938-3222
 E-mail: fabio20rj@gmail.com
 
 
-###Objetivo
+### Objetivo
 
 Desenvolvedor web
 
-###Educação
+### Educação
  
 * Ensino Superior - Analista de Sistemas - Estacio de Sá (Concluído)
 * Graduado - Gerenciamento de Projetos - Univ. Católica de Petrópolis (Concluído)
 * Inglês - Nível Avançado - Cultura Inglesa.
 
 
-###Conhecimentos de TI
+### Conhecimentos de TI
 
 * HTML/CSS/Javascript 
 * Bootstrap
