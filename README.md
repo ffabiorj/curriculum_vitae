@@ -2,16 +2,16 @@
 
 ### Dados Pessoais
 
-Brasileiro, 33 anos.
-Endereço: Rua nereu sampaio 61 - Realengo - Rio de Janeiro.
-Telefone 21 3565-2133
-Celular 21 97938-3222
-E-mail: fabio20rj@gmail.com
+* Brasileiro, 33 anos.
+* Endereço: Rua nereu sampaio 61 - Realengo - Rio de Janeiro.
+* Telefone 21 3565-2133
+* Celular 21 97938-3222
+* E-mail: fabio20rj@gmail.com
 
 
 ### Objetivo
 
-Desenvolvedor web
+* Desenvolvedor web
 
 ### Educação
  
@@ -33,7 +33,8 @@ Desenvolvedor web
 ### Informações adicionais
 
 Os projetos pessoais que eu realizei:
-   * Desenvolvimento de um site com django e bootstrap <a href="https://mtnomundao.herokuapp.com/" target="_blank")>Site<a/> / <a href="https://github.com/ffabiorj/mtnomundao/tree/master/mtnomundao" target="_blank">código<a/>.
+   * Desenvolvimento de um site com django e bootstrap 
+   [Site](href="https://mtnomundao.herokuapp.com/) / [código](https://github.com/ffabiorj/mtnomundao/tree/master/mtnomundao).
        Nesse projeto, foram criados: registro de usuário, login, atualizar login, atualizar senha, reset de senha por email, uma page para adicionar fotos.
    * Desenvolvimento de vários sites em Html/Css/Javascript [projetos](https://codepen.io/ffabiorj/) 
        Nesses projetos, a intenção foi aprender as skills acima.
