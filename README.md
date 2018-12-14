@@ -37,7 +37,7 @@ Os projetos pessoais que eu realizei:
    [Site](https://mtnomundao.herokuapp.com/) / [código](https://github.com/ffabiorj/mtnomundao/tree/master/mtnomundao).
        Nesse projeto, foram criados: registro de usuário, login, atualizar login, atualizar senha, reset de senha por email, uma page para adicionar fotos.
    * Desenvolvimento de vários sites em Html/Css/Javascript [projetos](https://codepen.io/ffabiorj/) 
-       Nesses projetos, a intenção foi aprender as skills acima.
+       nesses projetos, a intenção foi aprender as skills acima.
  
 
 ### Habilidade interpessoais
