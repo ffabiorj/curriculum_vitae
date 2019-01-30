@@ -55,9 +55,9 @@
 ## Experiência profissional
 
 
-04/2016 - 10/2016 –  EMPRESA: ENGEVIX ENGENHARIA S/A
+### 04/2016 - 10/2016 –  EMPRESA: ENGEVIX ENGENHARIA S/A
 
-### Cargo ocupado: Analista de Suporte
+#### Cargo ocupado: Analista de Suporte
 
 Principais atividades:
 - Suporte a usuário local e remoto.
@@ -68,9 +68,9 @@ Principais atividades:
 
 
 
-05/2014 – 01/2015  EMPRESA: Hotelaria Carioca
+### 05/2014 – 01/2015  EMPRESA: Hotelaria Carioca
 
-### Cargo ocupado: Analista de Suporte
+#### Cargo ocupado: Analista de Suporte
  
 Principais atividades:
 - Suporte a usuário local e remoto.
@@ -81,16 +81,16 @@ Principais atividades:
 - Instalação de softwares em gerais.
 
 
-02/2014 – 04/2014  EMPRESA: Globo.com
+### 02/2014 – 04/2014  EMPRESA: Globo.com
 
-### Cargo ocupado: Analista de Suporte
+#### Cargo ocupado: Analista de Suporte
  
 Principais atividades:
 - Configuração, monitoração de servidores e serviços Linux. 
 - Assistência ao usuário, a nível de aplicação.
 
 
-05/2010 - 02/2014 –  EMPRESA: ENGEVIX ENGENHARIA S/A
+#### 05/2010 - 02/2014 –  EMPRESA: ENGEVIX ENGENHARIA S/A
 
 ### Cargo ocupado: Analista de Suporte
 
@@ -105,5 +105,3 @@ gestão de workflow.
 - Suporte Tablets e Smartphones.
 - Manutenção de desktops, notebooks e workstation. 
 - Instalação de softwares em gerais.
-
-
