@@ -38,8 +38,8 @@
    [site](https://mtnomundao.herokuapp.com/).
        Nesse projeto, foram criados: registro de usuário, login, atualizar login, atualizar senha, reset de senha por email, uma page para adicionar fotos.
     * Desenvolvimento de um app em django, que você adiciona à temperatura da sua cidade [site](https://the-weather-fabio.herokuapp.com).
-       Nesse projeto, foi utilizado a lib requests e api weather.
-   * Desenvolvimento de mines projetos em Html/Css/Javascript projetos:
+       Nesse projeto, foi utilizado a lib requests e uma api weather.
+   * Desenvolvimento de varios projetos em Html/Css/Javascript projetos:
     [CodePain](https://codepen.io/ffabiorj/) - [Sketch](https://github.com/ffabiorj/etch-a-sketch) - [Calculator](https://github.com/ffabiorj/calculator) - [Pedra, papel e tesoura](https://github.com/ffabiorj/rock_paper_scissors)
        
  
