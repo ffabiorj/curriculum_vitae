@@ -7,7 +7,7 @@
 * Telefone 21 3565-2133
 * Celular 21 97938-3222
 * E-mail: fabio20rj@gmail.com
-* [Github](https://github.com/ffabiorj/)
+* website: fabiodeoliveira.net
 
 
 ## Objetivo
@@ -37,8 +37,9 @@
    * Desenvolvimento de um site com django e bootstrap 
    [site](https://mtnomundao.herokuapp.com/).
        Nesse projeto, foram criados: registro de usuário, login, atualizar login, atualizar senha, reset de senha por email, uma page para adicionar fotos.
-    * Desenvolvimento de um app em django, que você adiciona à temperatura da sua cidade [site](https://the-weather-fabio.herokuapp.com).
+   * Desenvolvimento de um app em django, que você adiciona à temperatura da sua cidade [site](https://the-weather-fabio.herokuapp.com).
        Nesse projeto, foi utilizado a lib requests e uma api weather.
+   * Desenvolvimento de um app todo list em django. [TodoList](https://todo-fabio.herokuapp.com/)
    * Desenvolvimento de varios projetos em Html/Css/Javascript projetos:
     [CodePain](https://codepen.io/ffabiorj/) - [Sketch](https://github.com/ffabiorj/etch-a-sketch) - [Calculator](https://github.com/ffabiorj/calculator) - [Pedra, papel e tesoura](https://github.com/ffabiorj/rock_paper_scissors)
        
