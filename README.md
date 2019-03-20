@@ -23,7 +23,8 @@
 
 ## Conhecimentos de TI
 
-* HTML/CSS/Javascript 
+* HTML/CSS/Javascript
+* Ajax
 * Bootstrap
 * Python 
 * Django Framework 
