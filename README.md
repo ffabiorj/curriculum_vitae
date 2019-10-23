@@ -60,7 +60,7 @@
 
 ## Experiência profissional
 
-### 04/2019 - 10/2019 –  EMPRESA: Addtech - Alocado na TELECINE
+### 04/2019 - 10/2019 –  EMPRESA: ADDTECH - Alocado no TELECINE
 
 #### Cargo ocupado: Analista de sistemas
 
