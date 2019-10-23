@@ -27,9 +27,13 @@
 * Ajax
 * Bootstrap
 * Python 
-* Django Framework 
+* Django Framework
+* Flask
+* RestFul
 * Mysql
 * Git/Github
+* TDD
+* Métedos ágeis 
 
 
 ## Projetos pessoais
@@ -55,6 +59,15 @@
 
 
 ## Experiência profissional
+
+### 04/2019 - 10/2019 –  EMPRESA: Addtech - Alocado na TELECINE
+
+#### Cargo ocupado: Analista de sistemas
+
+Principais atividades:
+- Desenvolvimento de apis com python.
+- Desenvolvimento de microserviços com python e lambda AWS.
+- Desenvolvimento de webservices com django para consultas internas.
 
 
 ### 04/2016 - 10/2016 –  EMPRESA: ENGEVIX ENGENHARIA S/A
