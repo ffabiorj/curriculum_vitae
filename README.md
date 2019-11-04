@@ -12,13 +12,13 @@
 
 ## Objetivo
 
-* Desenvolvedor web
+* Desenvolvedor backend
 
 ## Educação
  
 * Graduado - Gerenciamento de Projetos - Univ. Católica de Petrópolis (Concluído) 2013
 * Ensino Superior - Analista de Sistemas - Estacio de Sá (Concluído) 2011
-* Inglês - Nível Avançado - Cultura Inglesa. (não concluído)
+* Inglês - Nível Avançado
 
 
 ## Conhecimentos de TI
@@ -27,13 +27,13 @@
 * Ajax
 * Bootstrap
 * Python 
-* Django Framework
-* Flask
+* Django/Flask Frameworks
 * RestFul
 * Mysql
 * Git/Github
 * TDD
-* Métedos ágeis 
+* Métedos ágeis
+* Unix
 
 
 ## Projetos pessoais
@@ -60,13 +60,12 @@
 
 ## Experiência profissional
 
-### 04/2019 - 10/2019 –  EMPRESA: ADDTECH - Alocado no TELECINE
+### 04/2019 - 10//08/2019 –  EMPRESA: ADDTECH - Alocado no TELECINE
 
 #### Cargo ocupado: Analista de sistemas
 
 Principais atividades:
 - Desenvolvimento de apis com python.
-- Desenvolvimento de microserviços com python e lambda AWS.
 - Desenvolvimento de webservices com django para consultas internas.
 
 
