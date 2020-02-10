@@ -28,6 +28,8 @@
 * Bootstrap
 * Python 
 * Django/Flask Frameworks
+* Docker
+* CI/CD
 * RestFul
 * Mysql
 * Git/Github
