@@ -7,7 +7,6 @@
 * Telefone 21 3565-2133
 * Celular 21 97938-3222
 * E-mail: fabio20rj@gmail.com
-* website: [fabiodeoliveira.net](https://fabiodeoliveira.net/)
 
 
 ## Objetivo
